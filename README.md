@@ -1,4 +1,3 @@
-#book-inventory
 
 a book inventory program that can add and list up to 100 books.
 
